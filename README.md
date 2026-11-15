@@ -27,4 +27,3 @@
    pip install -r part1_mlp/requirements.txt
    ```
 4. Перейдите в папку нужной части и следуйте инструкциям в её локальном `README.md`.
-```
